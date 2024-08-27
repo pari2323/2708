@@ -1,0 +1,46 @@
+<style>
+h1	{color:red;
+	font-famiily:arial;
+	font-size:25px;
+	border:2px solid black;
+}
+
+body{color:yellow;
+	font-famiily:verdana;
+	font-size:25px;
+	padding:20px;
+	margin:20px;
+	
+}
+	
+p	{color:white;
+	font-famiily:verdana;
+	font-size:22px
+}
+
+a:link {color:green
+		background-color:powderblue;
+		text-decoration:none;
+		display:inline-block;
+		padding:10x 10x;
+		text-align:center;
+}
+a:visited {color:white
+		background-color:powderblue;
+		padding:10p 10px ;
+		display;inline-block;
+		text-decoration;none;
+		text-align:center;}
+a:hover, a:active {color:red;
+				background-color:white;
+				text-decoration:underline;
+				padding:1px 1px;
+				text-align:center;
+				}
+		
+		
+		
+		
+		
+
+</style>
